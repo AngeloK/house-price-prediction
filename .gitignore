@@ -100,3 +100,5 @@ ENV/
 # End of https://www.gitignore.io/api/python
 *.csv
 main-notebook_files/
+
+Linlin/data/
